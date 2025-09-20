@@ -298,6 +298,13 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
 		</tr>
 		<tr>
             <td align="center">
+                <a href="https://github.com/JadeCong">
+                    <img src="https://avatars.githubusercontent.com/u/16516205?v=4" width="90;" alt="JadeCong"/>
+                    <br />
+                    <sub><b>Jade Cong</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/kittizz">
                     <img src="https://avatars.githubusercontent.com/u/62899732?v=4" width="90;" alt="kittizz"/>
                     <br />
@@ -339,6 +346,8 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <sub><b>Yi Xin</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/g1eny0ung">
                     <img src="https://avatars.githubusercontent.com/u/15034155?v=4" width="90;" alt="g1eny0ung"/>
@@ -346,8 +355,6 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <sub><b>Yue Yang</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/lkieryan">
                     <img src="https://avatars.githubusercontent.com/u/187804088?v=4" width="90;" alt="lkieryan"/>
@@ -390,6 +397,8 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <sub><b>An Li</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/nekomeowww">
                     <img src="https://avatars.githubusercontent.com/u/11081491?v=4" width="90;" alt="nekomeowww"/>
@@ -397,8 +406,6 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <sub><b>Ayaka Neko</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/turkyden">
                     <img src="https://avatars.githubusercontent.com/u/24560160?v=4" width="90;" alt="turkyden"/>
@@ -425,13 +432,6 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <img src="https://avatars.githubusercontent.com/u/31427850?v=4" width="90;" alt="ImgBotApp"/>
                     <br />
                     <sub><b>Imgbot</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/JadeCong">
-                    <img src="https://avatars.githubusercontent.com/u/16516205?v=4" width="90;" alt="JadeCong"/>
-                    <br />
-                    <sub><b>Jade Cong</b></sub>
                 </a>
             </td>
             <td align="center">
