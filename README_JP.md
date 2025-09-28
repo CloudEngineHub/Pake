@@ -275,6 +275,13 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/JadeCong">
+                    <img src="https://avatars.githubusercontent.com/u/16516205?v=4" width="90;" alt="JadeCong"/>
+                    <br />
+                    <sub><b>Jade Cong</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Pake-Actions">
                     <img src="https://avatars.githubusercontent.com/u/126550811?v=4" width="90;" alt="Pake-Actions"/>
                     <br />
@@ -288,20 +295,13 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <sub><b>GoodbyeNJN</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/eltociear">
                     <img src="https://avatars.githubusercontent.com/u/22633385?v=4" width="90;" alt="eltociear"/>
                     <br />
                     <sub><b>Ikko Eltociear Ashimine</b></sub>
-                </a>
-            </td>
-		</tr>
-		<tr>
-            <td align="center">
-                <a href="https://github.com/JadeCong">
-                    <img src="https://avatars.githubusercontent.com/u/16516205?v=4" width="90;" alt="JadeCong"/>
-                    <br />
-                    <sub><b>Jade Cong</b></sub>
                 </a>
             </td>
             <td align="center">
