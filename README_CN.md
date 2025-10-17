@@ -270,17 +270,17 @@ Pake 的发展离不开这些优秀的贡献者 ❤️
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/m1911star">
-                    <img src="https://avatars.githubusercontent.com/u/4948120?v=4" width="90;" alt="m1911star"/>
-                    <br />
-                    <sub><b>Horus</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/JadeCong">
                     <img src="https://avatars.githubusercontent.com/u/16516205?v=4" width="90;" alt="JadeCong"/>
                     <br />
                     <sub><b>Jade Cong</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/m1911star">
+                    <img src="https://avatars.githubusercontent.com/u/4948120?v=4" width="90;" alt="m1911star"/>
+                    <br />
+                    <sub><b>Horus</b></sub>
                 </a>
             </td>
             <td align="center">
