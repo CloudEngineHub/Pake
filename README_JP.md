@@ -247,17 +247,17 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
 		</tr>
 		<tr>
             <td align="center">
-                <a href="https://github.com/essesoul">
-                    <img src="https://avatars.githubusercontent.com/u/58624474?v=4" width="90;" alt="essesoul"/>
-                    <br />
-                    <sub><b>Essesoul</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/JadeCong">
                     <img src="https://avatars.githubusercontent.com/u/16516205?v=4" width="90;" alt="JadeCong"/>
                     <br />
                     <sub><b>Jade Cong</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/essesoul">
+                    <img src="https://avatars.githubusercontent.com/u/58624474?v=4" width="90;" alt="essesoul"/>
+                    <br />
+                    <sub><b>Essesoul</b></sub>
                 </a>
             </td>
             <td align="center">
